@@ -178,3 +178,13 @@ If you have any questions, suggestions, or feedback, feel free to reach out!
 - **GitHub:** [VedantAnand17](https://github.com/VedantAnand17)
 
 ---
+## Repository Metrics
+
+| Metric        | Value                                                                                                        |
+|---------------|-------------------------------------------------------------------------------------------------------------|
+| **Stars**     | ![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository-name?style=social)         |
+| **Forks**     | ![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository-name?style=social)         |
+| **Issues**    | ![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository-name)                    |
+| **Pull Requests** | ![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/your-repository-name)      |
+| **Contributors**  | ![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repository-name)    |
+| **License**   | ![GitHub](https://img.shields.io/github/license/your-username/your-repository-name)                          |
